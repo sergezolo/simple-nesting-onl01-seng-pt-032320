@@ -16,7 +16,7 @@ def hopper
         }
      }
 
-hopper[:grace_hopper] = {:known_for => [], :languages => []}
+programmer_hash[:grace_hopper]
 
 return hopper 
 
