@@ -16,7 +16,7 @@ def hopper
         }
      }
 
-hopper[:grace_hopper} = {:known_for => [], :languages => []}}
+hopper[:grace_hopper] = {:known_for => [], :languages => []}
 
 return hopper 
 
